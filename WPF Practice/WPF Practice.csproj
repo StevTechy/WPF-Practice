@@ -54,7 +54,27 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="MainWindow.xaml">
+    <Compile Include="Canvas.xaml.cs">
+      <DependentUpon>Canvas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DockPanel.xaml.cs">
+      <DependentUpon>DockPanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StackPanel.xaml.cs">
+      <DependentUpon>StackPanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WrapPanel.xaml.cs">
+      <DependentUpon>WrapPanel.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Canvas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DockPanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Grid.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -62,10 +82,18 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
-      <DependentUpon>MainWindow.xaml</DependentUpon>
+    <Compile Include="Grid.xaml.cs">
+      <DependentUpon>Grid.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="StackPanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WrapPanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">

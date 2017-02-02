@@ -12,3 +12,5 @@ C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.csproj.GenerateResource.Cache
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.exe
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.pdb
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\StackPanel.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\StackPanel.baml
