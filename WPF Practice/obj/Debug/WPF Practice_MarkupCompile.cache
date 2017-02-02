@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\App.xaml
-2-942709964
+6-1357893048
 
-6-1859352184
+10-1611854718
 13738642453
-MainWindow.xaml;StackPanel.xaml;
+BasicForm.xaml;Canvas.xaml;DockPanel.xaml;Grid.xaml;StackPanel.xaml;WrapPanel.xaml;
 
 False
 

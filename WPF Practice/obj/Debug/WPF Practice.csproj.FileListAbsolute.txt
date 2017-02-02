@@ -2,11 +2,9 @@ C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\WPF Practice.exe
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\WPF Practice.pdb
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.csprojResolveAssemblyReference.cache
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\MainWindow.g.cs
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\App.g.cs
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice_MarkupCompile.cache
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice_MarkupCompile.lref
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\MainWindow.baml
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.g.resources
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF_Practice.Properties.Resources.resources
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.csproj.GenerateResource.Cache
@@ -14,3 +12,13 @@ C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.pdb
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\StackPanel.g.cs
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\StackPanel.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\BasicForm.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Canvas.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\DockPanel.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Grid.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WrapPanel.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\BasicForm.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Canvas.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\DockPanel.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Grid.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WrapPanel.baml

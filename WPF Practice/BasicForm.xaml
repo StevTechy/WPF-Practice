@@ -1,0 +1,55 @@
+﻿<Page x:Class="WPF_Practice.BasicForm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPF_Practice"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="400"
+      Title="BasicForm">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Full Name" VerticalAlignment="Center" Margin="5"></TextBlock>
+        <StackPanel Orientation="Horizontal" Grid.Column="1" Margin="5">
+            <TextBox Width="100" Grid.Column="1"></TextBox>
+        </StackPanel>
+
+        <TextBlock Text="Sex" Grid.Row="1" VerticalAlignment="Center" Margin="5"></TextBlock>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" Margin="5">
+            <RadioButton Content="Male"></RadioButton>
+            <RadioButton Content="Female" Margin="10,0,0,0"></RadioButton>
+        </StackPanel>
+
+        <TextBlock Text="Do you own" Grid.Row="2" VerticalAlignment="Center" Margin="5"></TextBlock>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" Margin="5">
+            <CheckBox Content="Desktop"></CheckBox>
+            <CheckBox Content="Laptop" Margin="10,0,0,0"></CheckBox>
+        </StackPanel>
+
+        <TextBlock Text="Your job" Grid.Row="3" VerticalAlignment="Center" Margin="5"></TextBlock>
+        <ComboBox Grid.Row="3" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5">
+            <ComboBoxItem Content="Programmer"></ComboBoxItem>
+            <ComboBoxItem Content="Designer"></ComboBoxItem>
+            <ComboBoxItem Content="Manager"></ComboBoxItem>
+            <ComboBoxItem Content="CTO"></ComboBoxItem>
+            <ComboBoxItem Content="CEO"></ComboBoxItem>
+        </ComboBox>
+
+        <TextBlock Text="Promised Delivery Date" Grid.Row="4" VerticalAlignment="Top" Margin="5"></TextBlock>
+        <Calendar Grid.Row="4" Grid.Column="1" HorizontalAlignment="Left" Margin="5"></Calendar>
+    </Grid>
+</Page>
