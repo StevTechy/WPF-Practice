@@ -63,8 +63,15 @@
     <Compile Include="DockPanel.xaml.cs">
       <DependentUpon>DockPanel.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Employee.cs" />
+    <Compile Include="OneWayDataBinding.xaml.cs">
+      <DependentUpon>OneWayDataBinding.xaml</DependentUpon>
+    </Compile>
     <Compile Include="StackPanel.xaml.cs">
       <DependentUpon>StackPanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TwoWayDataBinding.xaml.cs">
+      <DependentUpon>TwoWayDataBinding.xaml</DependentUpon>
     </Compile>
     <Compile Include="WrapPanel.xaml.cs">
       <DependentUpon>WrapPanel.xaml</DependentUpon>
@@ -93,7 +100,15 @@
       <DependentUpon>Grid.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="OneWayDataBinding.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="StackPanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TwoWayDataBinding.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

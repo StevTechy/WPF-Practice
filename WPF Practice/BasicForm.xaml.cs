@@ -27,9 +27,10 @@ namespace WPF_Practice
 
         private void btnSave_Click(object sender, RoutedEventArgs e)
         {
-            var user = new User();
-
-            user.FullName = txbFullName.Text;
+            var user = new User()
+            {
+                FullName = txbFullName.Text
+            };
 
             if (rdoSexMale.IsChecked != null)
                 if (Convert.ToBoolean(rdoSexMale.IsChecked))

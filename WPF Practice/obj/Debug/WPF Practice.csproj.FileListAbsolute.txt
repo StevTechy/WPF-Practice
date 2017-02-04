@@ -22,3 +22,7 @@ C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\DockPanel.baml
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Grid.baml
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WrapPanel.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\OneWayDataBinding.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\OneWayDataBinding.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\TwoWayDataBinding.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\TwoWayDataBinding.baml
