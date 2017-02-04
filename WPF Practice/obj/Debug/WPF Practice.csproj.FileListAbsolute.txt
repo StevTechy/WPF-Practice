@@ -27,3 +27,5 @@ C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\TwoWayDataBinding.g.cs
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\TwoWayDataBinding.baml
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\AsynchronousIntro.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\AsynchronousIntro.baml

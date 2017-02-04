@@ -54,6 +54,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AsynchronousIntro.xaml.cs">
+      <DependentUpon>AsynchronousIntro.xaml</DependentUpon>
+    </Compile>
     <Compile Include="BasicForm.xaml.cs">
       <DependentUpon>BasicForm.xaml</DependentUpon>
     </Compile>
@@ -77,6 +80,10 @@
     <Compile Include="WrapPanel.xaml.cs">
       <DependentUpon>WrapPanel.xaml</DependentUpon>
     </Compile>
+    <Page Include="AsynchronousIntro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="BasicForm.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
