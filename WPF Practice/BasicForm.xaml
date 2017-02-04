@@ -25,23 +25,23 @@
 
         <TextBlock Text="Full Name" VerticalAlignment="Center" Margin="5"></TextBlock>
         <StackPanel Orientation="Horizontal" Grid.Column="1" Margin="5">
-            <TextBox Width="100" Grid.Column="1"></TextBox>
+            <TextBox Width="100" Grid.Column="1" Name="txbFullName"></TextBox>
         </StackPanel>
 
         <TextBlock Text="Sex" Grid.Row="1" VerticalAlignment="Center" Margin="5"></TextBlock>
         <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" Margin="5">
-            <RadioButton Content="Male"></RadioButton>
-            <RadioButton Content="Female" Margin="10,0,0,0"></RadioButton>
+            <RadioButton Content="Male" Name="rdoSexMale"></RadioButton>
+            <RadioButton Content="Female" Margin="10,0,0,0" Name="rdoSexFemale"></RadioButton>
         </StackPanel>
 
         <TextBlock Text="Do you own" Grid.Row="2" VerticalAlignment="Center" Margin="5"></TextBlock>
         <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" Margin="5">
-            <CheckBox Content="Desktop"></CheckBox>
-            <CheckBox Content="Laptop" Margin="10,0,0,0"></CheckBox>
+            <CheckBox Content="Desktop" Name="chkDesktop"></CheckBox>
+            <CheckBox Content="Laptop" Margin="10,0,0,0" Name="chkLaptop"></CheckBox>
         </StackPanel>
 
         <TextBlock Text="Your job" Grid.Row="3" VerticalAlignment="Center" Margin="5"></TextBlock>
-        <ComboBox Grid.Row="3" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5">
+        <ComboBox Name="cmbJob" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5">
             <ComboBoxItem Content="Programmer"></ComboBoxItem>
             <ComboBoxItem Content="Designer"></ComboBoxItem>
             <ComboBoxItem Content="Manager"></ComboBoxItem>
@@ -50,6 +50,8 @@
         </ComboBox>
 
         <TextBlock Text="Promised Delivery Date" Grid.Row="4" VerticalAlignment="Top" Margin="5"></TextBlock>
-        <Calendar Grid.Row="4" Grid.Column="1" HorizontalAlignment="Left" Margin="5"></Calendar>
+        <Calendar Name="clnPromisedDeliveryDate" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Left" Margin="5"></Calendar>
+
+        <Button Name="btnSave" Content="Save" Grid.Row="5" Width="50" HorizontalAlignment="Right" Click="btnSave_Click"></Button>
     </Grid>
 </Page>
