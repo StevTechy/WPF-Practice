@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPF_Practice.Advanced_Controls.TabControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Practice.Advanced_Controls"
+        mc:Ignorable="d"
+        Title="TabControl" Height="300" Width="300">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Tab 1" Content="This is tab 1"></TabItem>
+            <TabItem Header="Tab 2">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Name"/>
+                        <TextBox Width="80" Height="30"/>
+                    </StackPanel>
+                    <CheckBox Content="I like tabs"/>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Tab 3" Content="This is tab 3"></TabItem>
+            <TabItem Header="Tab 4" Content="This is tab 4"></TabItem>
+        </TabControl>
+    </Grid>
+</Window>
