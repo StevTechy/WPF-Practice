@@ -29,14 +29,16 @@ namespace WPF_Practice
         public static ObservableCollection<Employee> GetEmployees()
         {
             //By using ObservableCollection, view is notified on additions or deletions to collection
-            var employees = new ObservableCollection<Employee>();
-            employees.Add(new Employee() { Name = "Barbara", Title = "Cleaner", StartDate = new DateTime(2004,10,10) });
-            employees.Add(new Employee() { Name = "Daniel", Title = "Developer", StartDate = new DateTime(2005, 4, 5) });
-            employees.Add(new Employee() { Name = "Jeff", Title = "Solutions Analyst", StartDate = new DateTime(2006, 10, 4) });
-            employees.Add(new Employee() { Name = "Gregory", Title = "Project Manager", StartDate = new DateTime(2007, 3, 2) });
-            employees.Add(new Employee() { Name = "Jennifer", Title = "HR Advisor", StartDate = new DateTime(2008, 10, 12) });
-            employees.Add(new Employee() { Name = "James", Title = "Reporting Analyst", StartDate = new DateTime(2009, 10, 16) });
-            employees.Add(new Employee() { Name = "Alec", Title = "Scrum Master", StartDate = new DateTime(2010, 12, 19) });
+            var employees = new ObservableCollection<Employee>
+            {
+                new Employee() { Name = "Barbara", Title = "Cleaner", StartDate = new DateTime(2004, 10, 10) },
+                new Employee() { Name = "Daniel", Title = "Developer", StartDate = new DateTime(2005, 4, 5) },
+                new Employee() { Name = "Jeff", Title = "Solutions Analyst", StartDate = new DateTime(2006, 10, 4) },
+                new Employee() { Name = "Gregory", Title = "Project Manager", StartDate = new DateTime(2007, 3, 2) },
+                new Employee() { Name = "Jennifer", Title = "HR Advisor", StartDate = new DateTime(2008, 10, 12) },
+                new Employee() { Name = "James", Title = "Reporting Analyst", StartDate = new DateTime(2009, 10, 16) },
+                new Employee() { Name = "Alec", Title = "Scrum Master", StartDate = new DateTime(2010, 12, 19) }
+            };
             return employees;
         }
 
