@@ -1,0 +1,42 @@
+﻿<Window x:Class="WPF_Practice.Advanced_Controls.TreeView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Practice.Advanced_Controls"
+        mc:Ignorable="d"
+        Title="TreeView" Height="300" Width="300">
+    <Grid>
+        <TreeView>
+            <TreeViewItem Header="Animals">
+                <TreeViewItem Header="Mammals">
+                    <TreeViewItem Header="Dogs">
+                        <TreeViewItem Header="German Shepherd">
+
+                        </TreeViewItem>
+                        <TreeViewItem Header="Cocker Spaniel">
+
+                        </TreeViewItem>
+                        <TreeViewItem Header="English Greyhound">
+
+                        </TreeViewItem>
+                    </TreeViewItem>
+                    <TreeViewItem Header="Cats">
+                        <TreeViewItem Header="Siamise">
+
+                        </TreeViewItem>
+                        <TreeViewItem Header="Persian">
+
+                        </TreeViewItem>
+                    </TreeViewItem>
+                </TreeViewItem>
+            </TreeViewItem>
+            <TreeViewItem Header="Plants">
+
+            </TreeViewItem>
+            <TreeViewItem Header="Other">
+
+            </TreeViewItem>
+        </TreeView>
+    </Grid>
+</Window>
