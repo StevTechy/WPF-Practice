@@ -57,6 +57,9 @@
     <Compile Include="Advanced Controls\DataGrid.xaml.cs">
       <DependentUpon>DataGrid.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Advanced Controls\StatusBar.xaml.cs">
+      <DependentUpon>StatusBar.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Advanced Controls\TabControl.xaml.cs">
       <DependentUpon>TabControl.xaml</DependentUpon>
     </Compile>
@@ -90,6 +93,10 @@
       <DependentUpon>WrapPanel.xaml</DependentUpon>
     </Compile>
     <Page Include="Advanced Controls\DataGrid.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Advanced Controls\StatusBar.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

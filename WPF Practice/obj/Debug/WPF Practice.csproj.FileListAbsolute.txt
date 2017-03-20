@@ -35,3 +35,5 @@ C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\DataGrid.baml
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\TreeView.g.cs
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\TreeView.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\StatusBar.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\StatusBar.baml
