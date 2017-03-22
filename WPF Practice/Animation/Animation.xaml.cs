@@ -24,13 +24,15 @@ namespace WPF_Practice.Animation
         {
             InitializeComponent();
 
-            DoubleAnimation animation = new DoubleAnimation();
-            animation.From = 0;
-            animation.To = 200;
-            //TimeSpan.Parse (hours:minutes:seconds)
-            animation.Duration = new Duration(TimeSpan.Parse("0:0:5"));
-            animation.AutoReverse = true;
-            animation.RepeatBehavior = new RepeatBehavior(TimeSpan.Parse("0:0:20"));
+            DoubleAnimation animation = new DoubleAnimation()
+            {
+                From = 0,
+                To = 200,
+                //TimeSpan.Parse (hours:minutes:seconds)
+                Duration = new Duration(TimeSpan.Parse("0:0:5")),
+                AutoReverse = true,
+                RepeatBehavior = new RepeatBehavior(TimeSpan.Parse("0:0:20"))
+            };
             ellipse.BeginAnimation(System.Windows.Controls.Canvas.LeftProperty, animation);
         }
     }
