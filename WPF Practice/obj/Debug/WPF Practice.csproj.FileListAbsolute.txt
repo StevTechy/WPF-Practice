@@ -1,43 +1,58 @@
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\WPF Practice.exe.config
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\WPF Practice.exe
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\WPF Practice.pdb
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.csprojResolveAssemblyReference.cache
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\DataGrid.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\Menu.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\StatusBar.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\TabControl.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\TreeView.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Animation\Animation.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Animation\Animation2.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Animation\Brushes.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Animation\Shapes.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\AsynchronousIntro.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\BasicForm.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Canvas.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\DockPanel.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Grid.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\OneWayDataBinding.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\StackPanel.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\TwoWayDataBinding.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WrapPanel.g.cs
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\App.g.cs
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice_MarkupCompile.cache
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice_MarkupCompile.lref
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\DataGrid.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\Menu.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\StatusBar.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\TabControl.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\TreeView.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Animation\Animation.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Animation\Animation2.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Animation\Brushes.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Animation\Shapes.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\AsynchronousIntro.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\BasicForm.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Canvas.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\DockPanel.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Grid.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\OneWayDataBinding.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\StackPanel.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\TwoWayDataBinding.baml
+C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WrapPanel.baml
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.g.resources
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF_Practice.Properties.Resources.resources
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.csproj.GenerateResource.Cache
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.exe
 C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WPF Practice.pdb
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\StackPanel.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\StackPanel.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\BasicForm.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Canvas.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\DockPanel.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Grid.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WrapPanel.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\BasicForm.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Canvas.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\DockPanel.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Grid.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\WrapPanel.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\OneWayDataBinding.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\OneWayDataBinding.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\TwoWayDataBinding.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\TwoWayDataBinding.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\AsynchronousIntro.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\AsynchronousIntro.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\TabControl.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\TabControl.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\DataGrid.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\DataGrid.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\TreeView.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\TreeView.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\StatusBar.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\StatusBar.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\Menu.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Advanced Controls\Menu.baml
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Animation\Shapes.g.cs
-C:\Users\steve\Repositories\Personal GitHub\WPF Practice\WPF Practice\obj\Debug\Animation\Shapes.baml

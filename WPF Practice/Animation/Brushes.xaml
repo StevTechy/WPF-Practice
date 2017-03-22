@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPF_Practice.Animation.Brushes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Practice.Animation"
+        mc:Ignorable="d"
+        Title="Brushes" Height="300" Width="300">
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="54.233" Margin="26.206,43.709,0,0" Stroke="#FF4F4F4F" VerticalAlignment="Top" Width="96.796">
+            <Rectangle.Fill>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF171717" Offset="0.121"/>
+                    <GradientStop Color="#FFA23737" Offset="1"/>
+                    <GradientStop Color="#FF3E724C" Offset="0.657"/>
+                </RadialGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+    </Grid>
+</Window>

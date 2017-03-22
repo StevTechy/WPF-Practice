@@ -34,6 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Expression.Drawing, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -68,6 +69,15 @@
     </Compile>
     <Compile Include="Advanced Controls\TreeView.xaml.cs">
       <DependentUpon>TreeView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\Animation.xaml.cs">
+      <DependentUpon>Animation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\Animation2.xaml.cs">
+      <DependentUpon>Animation2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\Brushes.xaml.cs">
+      <DependentUpon>Brushes.xaml</DependentUpon>
     </Compile>
     <Compile Include="Animation\Shapes.xaml.cs">
       <DependentUpon>Shapes.xaml</DependentUpon>
@@ -115,6 +125,18 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Advanced Controls\TreeView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Animation\Animation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Animation\Animation2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Animation\Brushes.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

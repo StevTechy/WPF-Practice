@@ -24,7 +24,8 @@
 
         <Polygon Points="100,100 200,150 125,175 175,250"
                   Stroke="Blue" StrokeThickness="5" Fill="Red"/>
-        
+
         <ed:Arc ArcThickness="1" ArcThicknessUnit="Percent" EndAngle="360" Fill="#FF4BEE43" Height="53.832" Canvas.Left="193.228" Stretch="None" Stroke="Black" StartAngle="90" Canvas.Top="191.02" Width="60.594"/>
+        <ed:Callout AnchorPoint="0,1.25" CalloutStyle="Oval" Content="Callout" Fill="#FF4BEE43" FontSize="14.667" Height="37.03" Canvas.Left="167.484" Stroke="Black" Canvas.Top="15.206" Width="114.516"/>
     </Canvas>
 </Window>
